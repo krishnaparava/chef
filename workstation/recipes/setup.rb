@@ -12,5 +12,4 @@ file '/etc/motd' do
   group 'root'
 end
 
-package 'git'
 
